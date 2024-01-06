@@ -1,0 +1,36 @@
+/* Selector universal */
+/* *{color: antiquewhite;} */
+
+
+/* Selectores sencillos */
+/* h1 {
+    color: rebeccapurple;
+}
+
+div article p {
+    font-size: 20px;
+}
+
+p a {
+    color: blue;
+}
+
+.grande {
+    font-size: 30px;
+}
+
+#grande {
+    color: blueviolet;
+} */
+
+/* Selectores avanzados */
+
+/* Selectore de hijos */
+
+div> p {
+    font-size: 28px;
+}
+
+/* Selector de atributos
+input[type]
+*/
