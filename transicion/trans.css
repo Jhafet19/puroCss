@@ -1,0 +1,10 @@
+.caja {
+    height: 200px;
+    width: 200px;
+    background: #0353a4;
+    transition: all 1s ease;
+}
+
+.caja:hover {
+    background: #9eb3c2;
+}
